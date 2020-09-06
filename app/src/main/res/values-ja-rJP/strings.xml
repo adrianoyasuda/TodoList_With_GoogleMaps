@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">タスク</string>
+    <string name="title">タイトル</string>
+    <string name="description">説明</string>
+    <string name="save">保存する</string>
+    <string name="remove">" 削除する"</string>
+    <string name="weee">" 大場！終わったばか: "</string>
+    <string name="share">これを共有</string>
+</resources>

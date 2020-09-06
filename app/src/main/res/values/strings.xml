@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tasks</string>
+    <string name="title">Tittle</string>
+    <string name="description">Description</string>
+    <string name="save">Save</string>
+    <string name="remove">Remove</string>
+    <string name="weee">Oba! Acabei de concluir: </string>
+    <string name="share">Share</string>
+</resources>

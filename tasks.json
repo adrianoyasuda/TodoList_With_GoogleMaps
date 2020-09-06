@@ -1,0 +1,28 @@
+{
+	"tasks": [
+		{
+		"id": 1,
+		"title": "Fazer Atividade",
+		"description": "Fazer a Atividade de retrofit",
+		"done": "false"
+		},
+		{
+		"id": 2,
+		"title": "Verificar se ta tudo ok",
+		"description": "Ver se ta rodando tudo nice",
+		"done": "true"
+		},
+		{
+		"id": 3,
+		"title": "Entregar Atividade",
+		"description": "Não esqueça de entregar a atividade que vc fez",
+		"done": false
+		},
+		{
+    	"id": 4,
+		"title": "Apenas um teste do true sem aspas",
+		"description": "È isso",
+		"done": true
+		}
+	]
+}
