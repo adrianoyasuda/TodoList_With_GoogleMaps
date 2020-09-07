@@ -66,9 +66,9 @@
                 tools:ignore="VectorDrawableCompat" />
 
         <fragment
-                android:id="@+id/fragment3"
+                android:id="@+id/fragment"
                 android:name="yasuda.ifpr.edu.com.br.task.fragments.MapsFragment"
-                android:layout_width="394dp"
+                android:layout_width="0dp"
                 android:layout_height="484dp"
                 android:layout_marginTop="10dp"
                 app:layout_constraintBottom_toBottomOf="parent"

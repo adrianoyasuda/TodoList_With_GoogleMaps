@@ -157,7 +157,7 @@ RecyclerView.Adapter<TaskAdapter.ViewHolder>() {
         with(shareIntent) {
             type = "text/plain"
             putExtra(Intent.EXTRA_SUBJECT, "Compartilhar")
-            putExtra(Intent.EXTRA_TEXT, "${card.context.getString(R.string.weee)} ${task.title}".toString())
+            putExtra(Intent.EXTRA_TEXT, "${card.context.getString(R.string.weee)} ${task.title}")
 
         }
         shareIntent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK)
